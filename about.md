@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Mi nombre es Jairo Quispe, tesista en Ingeniería Informática. La idea de este blog es escencialmente compartir el mucho o poco conocimiento que tengo de temas relacionados a informática, además de aprender algo nuevo como lo es volcar ese conocimiento en pequeños posts.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Temas como Servidores Linux, Virtualización, Docker, serán probablemente los más recurrentes; no obstante, soy apasionado de la seguridad informática, e iré volcando el conocimiento que vaya adquiriendo en este blog.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Sin más que decir...
 
-
-[jekyll-organization]: https://github.com/jekyll
+¡¡ Bienvenidos !!
