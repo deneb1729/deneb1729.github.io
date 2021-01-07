@@ -43,7 +43,6 @@ theme: minima
 
 header_pages:
   - index.md
-  - guides.md
   - about.md
 
 plugins:
